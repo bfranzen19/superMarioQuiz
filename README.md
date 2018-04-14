@@ -32,10 +32,25 @@ Finally, write the code for the button which checks your answers. This code shou
 # Screenshots of the Application:
 
 <!-- ![image](https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png) -->
+
+<!-- ![image](https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png) -->
+
+<!-- ![image](https://user-images.githubusercontent.com/25850024/38763999-24437c66-3f64-11e8-89aa-90abba74abd6.png) -->
+
+<!-- ![image](https://user-images.githubusercontent.com/25850024/38764002-2c6fb9ae-3f64-11e8-943c-aa1339951dd0.png) -->
+
+<p alight="center">
 <img src="https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png" width="400" height="700"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png)
+<p alight="center">
+<img src="https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png" width="400" height="700"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/25850024/38763999-24437c66-3f64-11e8-89aa-90abba74abd6.png)
+<p alight="center">
+<img src="https://user-images.githubusercontent.com/25850024/38763999-24437c66-3f64-11e8-89aa-90abba74abd6.png" width="400" height="700"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/25850024/38764002-2c6fb9ae-3f64-11e8-943c-aa1339951dd0.png)
+<p alight="center">
+<img src="https://user-images.githubusercontent.com/25850024/38764002-2c6fb9ae-3f64-11e8-943c-aa1339951dd0.png" width="400" height="700"/>
+</p>
