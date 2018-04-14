@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/826b2deab62c9bb9e8b4d3df016263ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cc83ad44ccab13a8cff8fa6d87f59431/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cfe14ce34f68394a8d173ae09c6f7814/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65df1a5c700d6c3e6969f66a084ef1bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e896048965d1a50d6b36ec216a092a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3b7bf7c67ee2679be36886d2143a5f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ed0fcc6f8631fd2fa5fa628a8ce5bdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/63b85549dbe8597de00adb9637a8bff9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b36e8a9af394a9853b6fa67714d6cf2c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a9f61b0c87b8e45f04be03be152d964/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ac9b1803771a8fd464eb6121238c6f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc69ce89c75aa3a87e0b597948512490/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cc83ad44ccab13a8cff8fa6d87f59431/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cc83ad44ccab13a8cff8fa6d87f59431/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.quizmaster.MainActivity
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/826b2deab62c9bb9e8b4d3df016263ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/826b2deab62c9bb9e8b4d3df016263ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cc83ad44ccab13a8cff8fa6d87f59431/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bt/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/cc83ad44ccab13a8cff8fa6d87f59431/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cfe14ce34f68394a8d173ae09c6f7814/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cfe14ce34f68394a8d173ae09c6f7814/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65df1a5c700d6c3e6969f66a084ef1bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65df1a5c700d6c3e6969f66a084ef1bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e896048965d1a50d6b36ec216a092a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e896048965d1a50d6b36ec216a092a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3b7bf7c67ee2679be36886d2143a5f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3b7bf7c67ee2679be36886d2143a5f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ed0fcc6f8631fd2fa5fa628a8ce5bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ed0fcc6f8631fd2fa5fa628a8ce5bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/63b85549dbe8597de00adb9637a8bff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bt/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/63b85549dbe8597de00adb9637a8bff9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b36e8a9af394a9853b6fa67714d6cf2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b36e8a9af394a9853b6fa67714d6cf2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a9f61b0c87b8e45f04be03be152d964/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6a9f61b0c87b8e45f04be03be152d964/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ac9b1803771a8fd464eb6121238c6f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6ac9b1803771a8fd464eb6121238c6f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc69ce89c75aa3a87e0b597948512490/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bt/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cc69ce89c75aa3a87e0b597948512490/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bt/AndroidStudioProjects/QuizMaster/app/src/main/AndroidManifest.xml
