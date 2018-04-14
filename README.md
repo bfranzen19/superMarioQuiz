@@ -29,23 +29,17 @@ Second, you'll want to write code that links the layout to the activity. For ste
 
 Finally, write the code for the button which checks your answers. This code should run through each question in the app, record whether the user got the question right, and then display the quiz results in a Toast message.
 
+
+
 # Screenshots of the Application:
 
-<!-- ![image](https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png) -->
-
-<!-- ![image](https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png) -->
-
-<!-- ![image](https://user-images.githubusercontent.com/25850024/38763999-24437c66-3f64-11e8-89aa-90abba74abd6.png) -->
-
-<!-- ![image](https://user-images.githubusercontent.com/25850024/38764002-2c6fb9ae-3f64-11e8-943c-aa1339951dd0.png) -->
-
-<!-- <p align="center"> -->
+<p align="center">
 <img src="https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png" width="400" height="700"/>
-<!-- </p> -->
+</p>
 
-<!-- <p align="center"> -->
+<p align="center">
 <img src="https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png" width="400" height="700"/>
-<!-- </p> -->
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/25850024/38763999-24437c66-3f64-11e8-89aa-90abba74abd6.png" width="400" height="700"/>
