@@ -32,7 +32,7 @@ Finally, write the code for the button which checks your answers. This code shou
 # Screenshots of the Application:
 
 ![image](https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png)
-<img src="https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png" width="100" height="200"/>
+<img src="https://user-images.githubusercontent.com/25850024/38763991-04d726ac-3f64-11e8-8169-1f7ae5afa47c.png" width="400" height="600"/>
 
 ![image](https://user-images.githubusercontent.com/25850024/38763998-1985ee4e-3f64-11e8-9f73-ed794c4cf07a.png)
 
