@@ -1,0 +1,184 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/question1_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:text="Question 1"/>
+
+        <TextView
+            android:id="@+id/question1_question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:textSize="18sp"
+            android:text="What is Mario's brother's name?"/>
+
+        <EditText
+            android:id="@+id/question1_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="24dp"
+            android:hint="enter name"
+            android:inputType="text" />
+
+        <TextView
+            android:id="@+id/question2_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="45dp"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:text="Question 2"/>
+
+        <TextView
+            android:id="@+id/question2_question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:textSize="18sp"
+            android:text="Who is the main bad guy in the Mario video games?"/>
+
+        <RadioGroup
+            android:id="@+id/question2_answer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RadioButton
+                android:id="@+id/question2_answer_1"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Luigi"/>
+            <RadioButton
+                android:id="@+id/question2_answer_2"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Peach"/>
+            <RadioButton
+                android:id="@+id/question2_answer_3"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Toad"/>
+            <RadioButton
+                android:id="@+id/question2_answer_4"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Bowser"/>
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/question3_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="45dp"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:text="Question 3"/>
+
+        <TextView
+            android:id="@+id/question3_question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:textSize="18sp"
+            android:text="Select the consoles that have NOT released Mario games (select 2)."/>
+
+        <CheckBox
+            android:id="@+id/question3_answer_NES"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:text="Nintendo Entertainment System (NES)"/>
+        <CheckBox
+            android:id="@+id/question3_answer_SNES"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:text="Super Nintendo Entertainment System (SNES)"/>
+        <CheckBox
+            android:id="@+id/question3_answer_xbox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:text="Xbox360"/>
+        <CheckBox
+            android:id="@+id/question3_answer_playstation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:text="Playstation"/>
+
+        <TextView
+            android:id="@+id/question4_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="45dp"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:text="Question 4"/>
+
+        <TextView
+            android:id="@+id/question4_question"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="24dp"
+            android:textSize="18sp"
+            android:text="What is Mario's profession?"/>
+
+        <EditText
+            android:id="@+id/question4_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginBottom="22dp"
+            android:hint="enter name"
+            android:inputType="text" />
+
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="100dp"
+            android:layout_gravity="center_horizontal"
+            android:onClick="gradeQuiz"
+            android:text="SUBMIT QUIZ"/>
+
+
+    </LinearLayout>
+</ScrollView>
